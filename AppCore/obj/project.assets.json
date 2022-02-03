@@ -11,10 +11,10 @@
     "C:\\Users\\omerf\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\omerf\\source\\repos\\GithubActions\\AppCore\\AppCore.csproj",
-      "projectName": "AppCore",
+      "projectName": "AppCorePublishing",
       "projectPath": "C:\\Users\\omerf\\source\\repos\\GithubActions\\AppCore\\AppCore.csproj",
       "packagesPath": "C:\\Users\\omerf\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\omerf\\source\\repos\\GithubActions\\AppCore\\obj\\",
