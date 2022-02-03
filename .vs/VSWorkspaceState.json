@@ -3,7 +3,8 @@
     "",
     "\\.github",
     "\\.github\\workflows",
-    "\\AppCore"
+    "\\AppCore",
+    "\\GithubActions"
   ],
   "PreviewInSolutionExplorer": false
 }
